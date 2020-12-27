@@ -43,7 +43,11 @@ Both these projects are open-sourced, Feel free to reach out to me if you have a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<dic align="center>
+
 ![Manvi's github stats](https://github-readme-stats.vercel.app/api?username=Manvityagi&show_icons=true&theme=merko)
+
+</div>
 
 <!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Manvityagi&&style=flat-square&color=blue" align="center" />

@@ -14,6 +14,7 @@ I am Manvi Tyagi and I am a Software developer.
 - I am a fun-loving, goal-oriented, optimistic personality.
 - I love building applications & discussing new product ideas.
 - Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life.
+  &nbsp;&nbsp;
 
 ### 💻 Languages and Tools...
 
@@ -26,6 +27,7 @@ I am Manvi Tyagi and I am a Software developer.
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mongoDB.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/postman.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 ### 🔭 I’m currently working on
 
@@ -33,6 +35,7 @@ I am Manvi Tyagi and I am a Software developer.
 - [Girl Code It Website](https://github.com/Girl-Code-It/Girl-Code-It-Website-Frontend)
 
 👯 Both these projects are open-sourced, Feel free to reach out to me if you have any suggestions or want to collaborate.
+&nbsp;&nbsp;
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -43,7 +46,7 @@ I am Manvi Tyagi and I am a Software developer.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### ⚡ My Github Stats 
+### ⚡ My Github Stats
 
 ![Manvi's github stats](https://github-readme-stats.vercel.app/api?username=Manvityagi&show_icons=true&theme=merko)
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/Manvityagi/ManviTyagi/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Manvi Tyagi" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/Manvi.PNG"/>
 
 <!--
 **Manvityagi/ManviTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

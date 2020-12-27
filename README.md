@@ -15,15 +15,17 @@ I am Manvi Tyagi and I am a Software developer.
 - I love building applications & discussing new product ideas.
 - Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life.
 
-### - Languages and Tools...
+### Languages and Tools...
 
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/javascript.png"></code>
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/nodejs.png"></code>
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/python.png"></code>
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mysql.png"></code>
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/firebase.png"></code>
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git/git.png"></code>
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/python.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/javascript.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/nodejs.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/django.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mysql.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mongoDB.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/postman.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
 
 Here are some ideas to get you started:
 

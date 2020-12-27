@@ -2,10 +2,11 @@
 
 ### Hello, techies 👋
 
-I am Manvi Tyagi and I am a Software developer. I love building applications & discussing new product ideas.
-I am a fun-loving, goal-oriented, optimistic personality.
-A firm believer of "Ideas + Technology = Success".
-Ideas + innovation + technology + leadership + commitment are my tag words for life.
+I am Manvi Tyagi and I am a Software developer. 
+-   I am a fun-loving, goal-oriented, optimistic personality.
+-   I love building applications & discussing new product ideas.
+-   A firm believer of "Ideas + Technology = Success".
+-   Ideas + innovation + technology + leadership + commitment are my tag words for life.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dani_akash_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
 

@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/manvi-tyagi-108464147/"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/linkedin.png?raw=true"></a>
-<a href="https://twitter.com/ManviTyagi9"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/twitter.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ManviTyagi9"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@manvityagi770"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/medium.png?raw=true"></a>
 
 </p>

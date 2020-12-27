@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" width="150" height="150" alt="Manvi Tyagi" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/header.PNG"/>
+<img align="center" width="150" height="150" alt="Manvi Tyagi" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/header.jpg"/>
 
 ### I'm [Manvi Tyagi](https://github.com/Manvityagi)
 

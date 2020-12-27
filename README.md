@@ -15,7 +15,7 @@ I am Manvi Tyagi and I am a Software developer.
 - I love building applications & discussing new product ideas.
 - Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life.
 
-### Languages and Tools...
+### 💻 Languages and Tools...
 
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/python.png"></code>&nbsp;&nbsp;
@@ -32,7 +32,7 @@ I am Manvi Tyagi and I am a Software developer.
 - [Opportunity Calendar](https://github.com/Girl-Code-It/Opportunity-Calendar-Backend)
 - [Girl Code It Website](https://github.com/Girl-Code-It/Girl-Code-It-Website-Frontend)
 
-Both these projects are open-sourced, Feel free to reach out to me if you have any suggestions or want to collaborate.
+👯 Both these projects are open-sourced, Feel free to reach out to me if you have any suggestions or want to collaborate.
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -43,6 +43,7 @@ Both these projects are open-sourced, Feel free to reach out to me if you have a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+### ⚡ My Github Stats 
 
 ![Manvi's github stats](https://github-readme-stats.vercel.app/api?username=Manvityagi&show_icons=true&theme=merko)
 

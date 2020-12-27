@@ -27,7 +27,7 @@ I am Manvi Tyagi and I am a Software developer.
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/postman.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
 
-#### 🔭 I’m currently working on
+### 🔭 I’m currently working on
 
 - [Opportunity Calendar](https://github.com/Girl-Code-It/Opportunity-Calendar-Backend)
 - [Girl Code It Website](https://github.com/Girl-Code-It/Girl-Code-It-Website-Frontend)
@@ -43,7 +43,7 @@ Both these projects are open-sourced, Feel free to reach out to me if you have a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<dic align="center>
+<div align="center>
 
 ![Manvi's github stats](https://github-readme-stats.vercel.app/api?username=Manvityagi&show_icons=true&theme=merko)
 

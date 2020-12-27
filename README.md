@@ -2,15 +2,18 @@
 
 ### Hello, techies 👋
 
-I am Manvi Tyagi and I am a Software developer. 
--   I am a fun-loving, goal-oriented, optimistic personality.
--   I love building applications & discussing new product ideas.
--   A firm believer of "Ideas + Technology = Success".
--   Ideas + innovation + technology + leadership + commitment are my tag words for life.
+I am Manvi Tyagi and I am a Software developer.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dani_akash_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
+- I am a fun-loving, goal-oriented, optimistic personality.
+- I love building applications & discussing new product ideas.
+- Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life.
 
-**Manvityagi/ManviTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://www.linkedin.com/in/manvi-tyagi-108464147/"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/ManviTyagi9"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@manvityagi770"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/linkedin.png?raw=true"></a>
+
+</p>
 
 Here are some ideas to get you started:
 

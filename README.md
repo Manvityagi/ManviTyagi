@@ -7,7 +7,7 @@
 
 </p>
 
-### Hello, techies 👋
+### Hello, techies 👋 <img src=" https://tenor.com/1sr2.gif" width="30px">
 
 I am Manvi Tyagi and I am a Software developer.
 

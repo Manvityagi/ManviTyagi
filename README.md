@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 ![Manvi's github stats](https://github-readme-stats.vercel.app/api?username=Manvityagi&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvityagi&layout=compact&show_icons=true&theme=merko)](https://github.com/Manvityagi/github-readme-stats)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Manvityagi&&style=flat-square&color=blue" align="center" />
+</div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvityagi&layout=compact&show_icons=true&theme=merko)](https://github.com/Manvityagi/github-readme-stats) -->

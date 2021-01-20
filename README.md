@@ -14,6 +14,7 @@ I am Manvi Tyagi and I am a Software developer.
 - I am a fun-loving, goal-oriented, optimistic personality.
 - I love building applications & discussing new product ideas.
 - Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life.
+- I am the Founder of coding club - Girl Code It ([Website](http://girlcodeit.com/), [Linkedin Page](https://www.linkedin.com/company/girl-code-it))
   &nbsp;&nbsp;
 
 ### 💻 Languages and Tools...
